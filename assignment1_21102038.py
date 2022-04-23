@@ -63,10 +63,11 @@ print(list)
 
 # first we provide the list
 color=['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
+print("Provided list of colors is :", color)
 
 # then we remove 4th element and print it
 color.pop(3)
-print(color)
+print("List after modification is :",color)
 
 
 # QUESTION-5b: LIST ELEMENT REPLACEMENT
@@ -75,5 +76,5 @@ print(color)
 color=['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
 
 # now we replace the given elements and print the list
-color.pop(3), color.pop(3), color.insert(3, 'Purple')
-print(color)
+color[3:5]=['Purple']
+print("After replacing the colors list is :26" ,color)
