@@ -25,7 +25,7 @@ taxable=income-std_deduct-3000*dependents
 
 # finally we calculate the tax and print it
 tax=0.2*taxable
-print('$', tax)
+print('Your tax comes out to be $', tax)
 
 
 # QUESTION-3: STUDENT DATA LIST
