@@ -7,7 +7,7 @@ Enter 3rd number: 45
 #Output of second question
 Enter your income to the nearest penny: 25000
 Enter number of dependents: 2
-$ 1800.0
+Your tax comes out to be $ 1800.0
 #Output of third question
 Enter your Student ID: 21102038
 Enter your name: Raghav Goel
