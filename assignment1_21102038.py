@@ -77,4 +77,4 @@ color=['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
 
 # now we replace the given elements and print the list
 color[3:5]=['Purple']
-print("After replacing the colors list is :26" ,color)
+print("After replacing the colors list is :" ,color)
