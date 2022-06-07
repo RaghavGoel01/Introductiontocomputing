@@ -140,6 +140,7 @@ Odd numbers are:
 Even numbers are:
 12
 4
+No of times each number occurs in the List:
 {1: 2, 12: 1, 23: 1, -19: 1, 45: 1, 4: 1, -33: 1, 61: 1, -45: 1}
 
 #Output of ninth question
