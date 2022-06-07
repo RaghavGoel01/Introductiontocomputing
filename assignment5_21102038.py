@@ -139,6 +139,7 @@ for no in list:
     else:
         count[no]=1
 
+print("No of times each number occurs in the List:")
 print(count)
 print()
 
