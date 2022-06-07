@@ -1,6 +1,10 @@
 PS D:\Python> python -u "d:\Python\assignment3_21102038.py"
+ 
+#Output of first question
 Enter a number: 12
 0b1100
+
+#Output of second question
 Please select operation -
 1. Add
 2. Subtract
@@ -11,6 +15,8 @@ Select operations form 1, 2, 3, 4 : 4
 Enter first number: 4
 Enter second number: 8
 4 / 8 = 0.5
+
+#Output of third question
 35
 Enter the value of n: 10
 45.0
@@ -24,6 +30,8 @@ Enter value of x2: 4
 Enter value of y1: 1
 Enter value of y2: 5
 4.0
+
+#Output of fourth question
 0
 1
 2
@@ -48,7 +56,7 @@ Enter value of y2: 5
 9
 7
 
-
+#Output of fifth question
 Enter no of hydrogen atoms: 12
 Enter no of carbon atoms: 6
 Enter no of oxygen atoms: 6
