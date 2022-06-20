@@ -2,8 +2,14 @@
 #To find binary equivalent
 
 a=int(input("Enter a number: "))
-bin_a=bin(a)
-print(bin_a)
+d=[] #an empty list is created to store the bits of the number
+while a>0:
+     c=a&1
+     d.append(c)
+     a>>=1
+d.reverse() #we reverse the list to obtain the bits in correct order
+for i in range(len(d)):
+    print(d[i],end='')
 
 #Question 2
 #Calculator Program
