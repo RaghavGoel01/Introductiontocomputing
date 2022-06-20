@@ -2,7 +2,7 @@ PS D:\Python> python -u "d:\Python\assignment3_21102038.py"
  
 #Output of first question
 Enter a number: 12
-0b1100
+1100
 
 #Output of second question
 Please select operation -
