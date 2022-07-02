@@ -52,6 +52,7 @@ def pascal(n):
         print() #Printing new line
 N=int(input("Enter a number: "))
 pascal(N)
+print()
 
 #Question 4
 # Check if the string is pangram
@@ -113,6 +114,7 @@ print(isinstance(student1, Marks))
 print("\nCheck whether the said classes are subclasses of the built-in object class or not.")
 print(issubclass(Student, object))
 print(issubclass(Marks, object))
+print()
 
 #Question 8
 #Print all triplets within an array whose sum is zero
